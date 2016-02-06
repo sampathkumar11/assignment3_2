@@ -1,3 +1,5 @@
+//Loop not working: To check for errors//
+
 package assignment3_2;
 //finding a given number prime or not
 import java.util.Scanner;
